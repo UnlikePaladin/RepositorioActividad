@@ -1,7 +1,7 @@
-## Hello there, this is a git repository I've created for a Git workshop.
+## Hola mundo, ne gustan los pistaches, los gatos y me gusta codeforces
 
 ### Fun Stuff
 
 <img src="./images/Git.svg"></img>
 
-:) 
+:/
